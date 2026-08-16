@@ -2,8 +2,6 @@
 
 I love open source technology.
 
-## 💣 Minesweeper Contribution Graph
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
