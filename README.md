@@ -38,7 +38,7 @@ I enjoy solving complex business problems created by changing regulations, evolv
       <img
         src="https://raw.githubusercontent.com/AdityaKumar28/AdityaKumar28/master/animation.gif"
         alt="Developer working at a desk"
-        width="375"
+        width="350"
       >
     </td>
   </tr>
