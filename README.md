@@ -37,8 +37,8 @@ I enjoy solving complex business problems created by changing regulations, evolv
     <td width="500%" valign="middle" align="center">
       <img
         src="https://raw.githubusercontent.com/AdityaKumar28/AdityaKumar28/master/animation.gif"
-        alt="Developer working at a desk"
-        width="350"
+        alt="Developer working at an awesome desk"
+        width="351"
       >
     </td>
   </tr>
