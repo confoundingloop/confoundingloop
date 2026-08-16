@@ -11,9 +11,11 @@ I enjoy solving complex business problems created by changing regulations, evolv
 4. Recognized with multiple top three finishes in enterprise wide hackathons for transforming complex business challenges into scalable, data driven solutions.
 5. Earned multiple Lean Six Sigma certifications over five years at Genpact, a Fortune 100 IT consulting firm, by successfully leading process improvement initiatives that delivered measurable business results.
 
-## Recommendations:
-Here are some of the many recommendation Im grateful to have received from industry leaders around the globe.
-[](https://www.linkedin.com/in/jacob-eli-jimenez/details/recommendations/?detailScreenTabIndex=0)
+## Recommendations
+
+Here are some of the many recommendations I’m grateful to have received from industry leaders around the globe.
+
+[View my LinkedIn recommendations](https://www.linkedin.com/in/jacob-eli-jimenez/details/recommendations/?detailScreenTabIndex=0)
 
 <picture>
   <source
