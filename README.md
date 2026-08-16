@@ -11,7 +11,7 @@ I enjoy solving complex business problems created by changing regulations, evolv
 4. Recognized with multiple top three finishes in enterprise wide hackathons for transforming complex business challenges into scalable, techonology driven solutions.
 5. Earned multiple Lean Six Sigma certifications over about five years at Genpact, a Fortune 100 IT consulting firm, by successfully leading process improvement initiatives that delivered measurable business results.
 
-## Recommendations
+## Verified Recommendations
 
 Here are some of the many recommendations I’m grateful to have received from industry leaders around the globe.
 
