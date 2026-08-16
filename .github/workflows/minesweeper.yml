@@ -1,4 +1,4 @@
-name: Generate Bomberman contribution graph
+name: Generate Minesweeper contribution graph
 
 on:
   schedule:
@@ -17,14 +17,14 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: Generate Bomberman SVG
+      - name: Generate Minesweeper SVG
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: "bomberman"
+          games: "minesweeper"
           hide_month_labels: "false"
 
-      - name: Publish Bomberman SVG
+      - name: Publish Minesweeper SVG
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
