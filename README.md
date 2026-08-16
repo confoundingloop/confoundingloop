@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Jacob Eli Jimenez 👋
 
-<!--
-**confoundingloop/confoundingloop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love open source technology.
 
-Here are some ideas to get you started:
+## 💣 Bomberman Contribution Graph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/confoundingloop/confoundingloop/output/bomberman-contribution-graph-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/confoundingloop/confoundingloop/output/bomberman-contribution-graph.svg"
+  >
+  <img
+    alt="Bomberman contribution graph"
+    src="https://raw.githubusercontent.com/confoundingloop/confoundingloop/output/bomberman-contribution-graph.svg"
+  >
+</picture>
