@@ -8,7 +8,7 @@ I enjoy solving complex business problems created by changing regulations, evolv
 1. Improved operational efficiency by automating governance processes, saving 1,000+ hours of manual work.
 2. Identified and eliminated 20,000+ defective enterprise transactions, strengthening data quality and audit preparation.
 3. Analyzed 10,000+ financial breach records to identify risk patterns, metadata concentrations, and support targeted remediation efforts.
-4. Recognized with multiple top three finishes in enterprise wide hackathons for transforming complex business challenges into scalable, data driven solutions.
+4. Recognized with multiple top three finishes in enterprise wide hackathons for transforming complex business challenges into scalable, techonology driven solutions.
 5. Earned multiple Lean Six Sigma certifications over five years at Genpact, a Fortune 100 IT consulting firm, by successfully leading process improvement initiatives that delivered measurable business results.
 
 ## Recommendations
