@@ -4,6 +4,7 @@ If your business needs someone who can connect traceability data to scalable ope
 
 I enjoy solving complex business problems created by changing regulations, evolving risk landscapes, and enterprise transformation initiatives. Throughout my career, I've partnered with multiple Fortune 100 organizations to help translate audit findings, regulatory requirements, and business objectives into practical, scalable solutions. Whether the challenge involved financial controls, master data governance, supply chain traceability, or operational transformation, my focus has always been the same. Understand the problem, align stakeholders, and deliver meaningful results.
 
+
 <table>
   <tr>
     <td width="500%" valign="top">
@@ -64,3 +65,6 @@ Here are some of the many recommendations I’m grateful to have received from i
     src="https://raw.githubusercontent.com/confoundingloop/confoundingloop/output/minesweeper-contribution-graph.svg"
   >
 </picture>
+
+## Insights and Presentations
+- [Why Data Standardization Matters in Global Commerce](https://why-data-standardization-yulhc8g.gamma.site/)
