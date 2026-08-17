@@ -29,7 +29,7 @@ I enjoy solving complex business problems created by changing regulations, evolv
         </li>
         <li>
           Earned multiple Lean Six Sigma certifications over about five years
-          at Genpact, a Fortune 100 IT consulting firm, by successfully leading
+          at Genpact, a renowned Global IT consulting firm, by successfully leading
           process improvement initiatives that delivered measurable business
           results.
         </li>
