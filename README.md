@@ -1,4 +1,4 @@
-![](https://github-visitor-counter-tau.vercel.app/api?username=confoundingloop&displayMode=topCountries&theme=dark&columns=7&maxflags=244&size=large)
+![](https://github-visitor-counter-tau.vercel.app/api?username=confoundingloop&displayMode=topCountries&theme=dark&columns=7&maxflags=244&size=large&label=MyVisitors)
 # Hi folks, I'm Jacob Eli Jimenez. 👋🌎
 
 If your business needs someone who can connect traceability data to scalable operations, let’s talk.
