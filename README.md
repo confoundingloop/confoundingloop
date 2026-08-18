@@ -7,17 +7,17 @@
   <b>visitor</b>!
 </p>
 
-# Hi folks, I'm Jacob Eli Jimenez.
-
-If your business needs someone who can connect traceability data to scalable operations, let’s talk.
-
-I enjoy solving complex business problems created by changing regulations, evolving risk landscapes, and enterprise transformation initiatives. Throughout my career, I've partnered with multiple Fortune 100 organizations to help translate audit findings, regulatory requirements, and business objectives into practical, scalable solutions. Whether the challenge involved financial controls, master data governance, supply chain traceability, or operational transformation, my focus has always been the same. Understand the problem, align stakeholders, and deliver meaningful results.
-
 # Verified Recommendations
-
-Here are some of the many recommendations I’m grateful to have received from industry leaders around the globe.
+Here are some of the recommendations I’m grateful to have received from industry leaders around the globe.
 
 [View my LinkedIn recommendations](https://www.linkedin.com/in/jacob-eli-jimenez/details/recommendations/?detailScreenTabIndex=0)
+
+## Hi folks
+If your business needs someone who can connect traceability data to scalable operations, let’s talk. I'm currently exploring new opportunities across data governance, regulatory compliance, and process improvement areas.
+
+A bit more about me, I enjoy solving complex business problems created by changing regulations, evolving risk landscapes, and enterprise transformation initiatives. Throughout my career, I've partnered with multiple Fortune 100 organizations to help translate audit findings, regulatory requirements, and business objectives into practical, scalable solutions. Whether the challenge involved financial controls, master data governance, or operational transformation, my focus has always been the same. Understand the roadblockers, align stakeholders, design solutions, and deliver meaningful results.
+
+
 
 <table>
   <tr>
