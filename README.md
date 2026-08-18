@@ -1,5 +1,3 @@
-![](https://github-visitor-counter-tau.vercel.app/api?username=github&displayMode=topCountries&theme=transparent&columns=7&maxflags=244&size=large)
-
 ![](https://github-visitor-counter-tau.vercel.app/api?username=confoundingloop&displayMode=topCountries&theme=dark&columns=7&maxflags=244&size=large)
 # Hi folks, I'm Jacob Eli Jimenez. 👋🌎
 
@@ -11,7 +9,7 @@ I enjoy solving complex business problems created by changing regulations, evolv
 <table>
   <tr>
     <td width="500%" valign="top">
-      <h1>Highlights</h1>
+      <h2>Highlights</h2>
       <ol>
         <li>
           Improved operational efficiency by automating governance processes,
