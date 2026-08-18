@@ -13,6 +13,11 @@ If your business needs someone who can connect traceability data to scalable ope
 
 I enjoy solving complex business problems created by changing regulations, evolving risk landscapes, and enterprise transformation initiatives. Throughout my career, I've partnered with multiple Fortune 100 organizations to help translate audit findings, regulatory requirements, and business objectives into practical, scalable solutions. Whether the challenge involved financial controls, master data governance, supply chain traceability, or operational transformation, my focus has always been the same. Understand the problem, align stakeholders, and deliver meaningful results.
 
+# Verified Recommendations
+
+Here are some of the many recommendations I’m grateful to have received from industry leaders around the globe.
+
+[View my LinkedIn recommendations](https://www.linkedin.com/in/jacob-eli-jimenez/details/recommendations/?detailScreenTabIndex=0)
 
 <table>
   <tr>
@@ -54,11 +59,7 @@ I enjoy solving complex business problems created by changing regulations, evolv
   </tr>
 </table>
 
-# Verified Recommendations
 
-Here are some of the many recommendations I’m grateful to have received from industry leaders around the globe.
-
-[View my LinkedIn recommendations](https://www.linkedin.com/in/jacob-eli-jimenez/details/recommendations/?detailScreenTabIndex=0)
 
 <picture>
   <source
