@@ -9,7 +9,7 @@ I enjoy solving complex business problems created by changing regulations, evolv
 <table>
   <tr>
     <td width="500%" valign="top">
-      <h2>Highlights</h2>
+      <h1>Highlights</h1>
       <ol>
         <li>
           Improved operational efficiency by automating governance processes,
@@ -46,7 +46,7 @@ I enjoy solving complex business problems created by changing regulations, evolv
   </tr>
 </table>
 
-## Verified Recommendations
+# Verified Recommendations
 
 Here are some of the many recommendations I’m grateful to have received from industry leaders around the globe.
 
@@ -67,5 +67,5 @@ Here are some of the many recommendations I’m grateful to have received from i
   >
 </picture>
 
-## Insights and Presentations
+# Insights and Presentations
 - [Why Data Standardization Matters in Global Commerce](https://why-data-standardization-yulhc8g.gamma.site/)
