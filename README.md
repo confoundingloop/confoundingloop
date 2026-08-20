@@ -78,3 +78,4 @@ A bit more about me, I enjoy solving complex business problems created by changi
 
 # Insights and Presentations
 - [Why Data Standardization Matters in Global Commerce](https://why-data-standardization-yulhc8g.gamma.site/)
+- [Data Governance at the Item Level - Transformation Event with Sensors](https://transformation-event-sen-dmmv68y.gamma.site/)
