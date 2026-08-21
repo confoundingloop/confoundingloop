@@ -43,7 +43,7 @@ A bit more about me, I enjoy solving complex business problems created by changi
         </li>
         <li>
           Earned multiple Lean Six Sigma certifications over about five years
-          at Genpact, a renowned Global IT consulting firm, by successfully leading
+          at Genpact, a renowned Global Consulting firm, by successfully leading
           process improvement initiatives that delivered measurable business
           results.
         </li>
