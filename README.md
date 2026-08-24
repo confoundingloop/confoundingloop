@@ -61,6 +61,125 @@ A bit more about me, I enjoy solving complex business problems created by changi
 
 
 
+
+
+
+
+
+
+## 💼 Enterprise Technology Stack
+
+What I've learned throughout my career.
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🛡️ ERMs
+
+![LexisNexis](https://img.shields.io/badge/LexisNexis-CC0000?style=flat-square&logo=lexisnexis&logoColor=white)
+![Bridger Insight XG](https://img.shields.io/badge/Bridger%20Insight%20XG-8B0000?style=flat-square&logoColor=white)
+![Accurint](https://img.shields.io/badge/Accurint-005EB8?style=flat-square&logoColor=white)
+![Archer](https://img.shields.io/badge/Archer-243746?style=flat-square&logoColor=white)
+![ServiceNow GRC](https://img.shields.io/badge/ServiceNow%20GRC-81B5A1?style=flat-square&logo=servicenow&logoColor=white)
+![SAP GRC](https://img.shields.io/badge/SAP%20GRC-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![OneTrust](https://img.shields.io/badge/OneTrust-6C2DC7?style=flat-square&logoColor=white)
+![Workiva](https://img.shields.io/badge/Workiva-66CC00?style=flat-square&logoColor=white)
+
+<sub>GRC · policy management · sanctions screening · identity verification · privacy management · due diligence · regulatory compliance · internal controls </sub>
+
+</td>
+<td valign="top" width="50%">
+
+### 🏢  ERPs
+
+![SAP S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAP Vistex](https://img.shields.io/badge/SAP%20Vistex-136BB5?style=flat-square&logo=sap&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Microsoft Dynamics 365](https://img.shields.io/badge/Dynamics%20365-002050?style=flat-square&logo=dynamics365&logoColor=white)
+![JD Edwards](https://img.shields.io/badge/JD%20Edwards-C74634?style=flat-square&logo=oracle&logoColor=white)
+
+<sub>Enterprise operations · master data governance · financial controls · order to cash · procure to pay · supply chain planning · systems transformation</sub>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%">
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+<sub>Database architecture · relational and nonrelational modeling · schema design · normalization · query development · stored procedures · data quality · migration · data governance</sub>
+
+</td>
+<td valign="top" width="50%">
+
+### 📊 Analytics and Visualization
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![QlikView](https://img.shields.io/badge/QlikView-009845?style=flat-square&logo=qlik&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Minitab](https://img.shields.io/badge/Minitab-0072C6?style=flat-square&logoColor=white)
+
+<sub>Business intelligence · dashboard development · KPIs · data visualization · statistical analysis · root cause analysis · process improvement · value stream mapping · data storytelling</sub>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%">
+
+### 💻 Languages, Standards and Data Formats
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-292929?style=flat-square&logo=json&logoColor=white)
+![GS1 EPCIS 2.0](https://img.shields.io/badge/GS1%20EPCIS%202.0-F26334?style=flat-square&logoColor=white)
+
+<sub>Traceability event data · IT serialization · automation · structured data · data querying · interoperability · systems integration · information exchange</sub>
+
+</td>
+<td valign="top" width="50%">
+
+### 📋 Project Management
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Microsoft Project](https://img.shields.io/badge/Microsoft%20Project-217346?style=flat-square&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Monday.com](https://img.shields.io/badge/Monday.com-FF3D57?style=flat-square&logo=mondaydotcom&logoColor=white)
+
+<sub>Project planning · key business requirements · solution scope documentation · version control · bug tracking · cross functional collaboration</sub>
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
