@@ -1,3 +1,14 @@
+<div align="center">
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=200&section=header&text=Jacob%20Eli%20Jimenez&fontColor=ffffff&fontSize=46&fontAlignY=34&desc=Regulatory%20Compliance%20Practitioner%20%C2%B7%20Data%20Governance%20Facilitator%20%C2%B7%20Lean%20Six%20Sigma%20Expert&descAlignY=54&descSize=14"
+  alt="Jacob Eli Jimenez — Regulatory Compliance Practitioner, Data Governance Facilitator, and Lean Six Sigma Expert"
+/>
+
+</div>
+
+
 <p align="center">
   👋 You are my
   <img
