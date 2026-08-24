@@ -6,6 +6,18 @@
   alt="Jacob Eli Jimenez — Regulatory Compliance Practitioner, Data Governance Facilitator, and Lean Six Sigma Expert"
 />
 
+<br/>
+
+<samp>
+  📍 DFW, Texas
+  &nbsp;·&nbsp;
+  🌎 Open to Remote / Relocation
+  &nbsp;·&nbsp;
+  🗣️ English · Spanish · Portuguese
+</samp>
+
+<br/><br/>
+
 </div>
 
 
