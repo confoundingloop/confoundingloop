@@ -122,7 +122,7 @@ What I've learned throughout my career.
 ![Microsoft Dynamics 365](https://img.shields.io/badge/Dynamics%20365-002050?style=flat-square&logo=dynamics365&logoColor=white)
 ![JD Edwards](https://img.shields.io/badge/JD%20Edwards-C74634?style=flat-square&logo=oracle&logoColor=white)
 
-<sub>Enterprise operations · master data governance · financial controls · order to cash · procure to pay · supply chain planning · systems transformation</sub>
+<sub>Supply chain optimization · master data governance · financial controls · enterprise operations · order to cash · procure to pay · systems transformation</sub>
 
 </td>
 </tr>
