@@ -150,6 +150,7 @@ What I've learned throughout my career.
 ![QlikView](https://img.shields.io/badge/QlikView-009845?style=flat-square&logo=qlik&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Minitab](https://img.shields.io/badge/Minitab-0072C6?style=flat-square&logoColor=white)
+![Microsoft Visio](https://img.shields.io/badge/Microsoft%20Visio-3955A3?style=flat-square&logoColor=white)
 
 <sub>Business intelligence · dashboard development · KPIs · data visualization · statistical analysis · root cause analysis · process improvement · value stream mapping · data storytelling</sub>
 
