@@ -222,6 +222,7 @@ What I've learned throughout my career.
 # Insights and Presentations
 
 - [Recall Cascade Analysis](https://recall-cascade-analysis-lyp0h2i.gamma.site/)
+- [Why do Aggregation Events Matter?](https://aggregation-event-epcis2-h3nbr6x.gamma.site/)
 - [Why Data Standardization Matters in Global Commerce](https://why-data-standardization-yulhc8g.gamma.site/)
 - [Data Governance at the Item Level - Transformation Event with Sensors](https://transformation-event-sen-dmmv68y.gamma.site/)
 
