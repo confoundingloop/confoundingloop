@@ -32,7 +32,7 @@
 
 # Verified Recommendations
 
-[View here](https://www.linkedin.com/in/jacob-eli-jimenez/details/recommendations/?detailScreenTabIndex=0)
+# [View here](https://www.linkedin.com/in/jacob-eli-jimenez/details/recommendations/?detailScreenTabIndex=0)
 
 ## Hi folks
 If your business needs someone who can connect traceability data to scalable operations, let’s talk. I'm currently exploring new opportunities across data governance, regulatory compliance, and process improvement areas.
