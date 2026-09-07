@@ -31,7 +31,6 @@
 </p>
 
 # Verified Recommendations
-Here are some of the recommendations I’m grateful to have received from industry leaders around the globe.
 
 [View my LinkedIn recommendations](https://www.linkedin.com/in/jacob-eli-jimenez/details/recommendations/?detailScreenTabIndex=0)
 
