@@ -32,7 +32,7 @@
 
 # Verified Recommendations
 
-[View](https://www.linkedin.com/in/jacob-eli-jimenez/details/recommendations/?detailScreenTabIndex=0)
+[View here](https://www.linkedin.com/in/jacob-eli-jimenez/details/recommendations/?detailScreenTabIndex=0)
 
 ## Hi folks
 If your business needs someone who can connect traceability data to scalable operations, let’s talk. I'm currently exploring new opportunities across data governance, regulatory compliance, and process improvement areas.
@@ -219,7 +219,7 @@ What I've learned throughout my career.
 </picture>
 
 # Insights and Presentations
-
+- [AI Trustworthiness Taxonomy](https://buttercup-xylocarp-246.notion.site/AI-Trustworthiness-Taxonomy-GRC-Field-Guide-3d4ebe79f32a812caf89d3af29d0c3c8)
 - [Sensor Metadata Examples](https://epcis-sensor-metadata-ce-axek3x7.gamma.site/)
 - [Recall Cascade Analysis](https://recall-cascade-analysis-lyp0h2i.gamma.site/)
 - [Why do Aggregation Events Matter?](https://aggregation-event-epcis2-h3nbr6x.gamma.site/)
