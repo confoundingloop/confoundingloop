@@ -35,10 +35,12 @@
 [View here](https://www.linkedin.com/in/jacob-eli-jimenez/details/recommendations/?detailScreenTabIndex=0)
 
 ## Hi folks
-If your business needs someone who can connect traceability data to scalable operations, let’s talk. I'm currently exploring new opportunities across data governance, regulatory compliance, and process improvement areas.
 
-A bit more about me, I enjoy solving complex business problems created by changing regulations, evolving risk landscapes, and enterprise transformation initiatives. Throughout my career, I've partnered with multiple Fortune 100 organizations to help translate audit findings, regulatory requirements, and business objectives into practical, scalable solutions. Whether the challenge involved financial controls, product quality, or operational transformation, my focus has always been the same. Understand the road blockers, align stakeholders, design solutions, and deliver meaningful results.
+I work at the intersection of data governance, regulatory compliance, and process improvement. Over the years, I’ve developed deep experience with Lean Six Sigma and with translating complex requirements into practical governance practices that teams can actually use.
 
+What I enjoy most is understanding how people, processes, data, and controls fit together, then finding ways to make them work better. That might mean improving quality, strengthening compliance oversight, simplifying a process, or helping cross functional teams turn requirements on paper into something that works in practice.
+
+I tend to be methodical in how I approach problems and collaborative in how I solve them. My goal is usually the same, build clearer, more scalable ways of working that reduce risk, strengthen controls, and help the business operate more effectively.
 
 
 <table>
