@@ -77,8 +77,18 @@ I tend to be methodical in how I approach problems and collaborative in how I so
     </details>
   </li>
   <li>
-    <p>Analyzed 10,000+ financial breach records to identify risk patterns,
+    <p>Analyzed 10,000+ breach records within financial services to identify risk patterns,
     metadata concentrations, and support targeted remediation efforts.</p>
+    <details>
+      <summary><strong>Project spotlight: Global Breach Analysis and Remediation</strong></summary>
+      <div align="left">
+        <p><strong>Objective.</strong> Analyze 10,000+ breach records within financial services to identify concentrations of issues and support remediation across NAM, LATAM, APAC, and EMEA.</p>
+        <p><strong>What I did.</strong> I reviewed breach reports, extracted supporting data from systems, and analyzed concentrations across mapped policies, risks, legal entities, and regions. This connected individual breaches to broader patterns and helped identify areas requiring leadership attention.</p>
+        <p><strong>Leadership reporting and collaboration.</strong> I presented the analysis and key findings to the risk committee and partnered with leaders responsible for anti-money laundering (AML), anti-bribery, and insider trading compliance to determine appropriate remediation actions.</p>
+        <p><strong>Remediation focus.</strong> I worked with the responsible leaders to address open issues and identify corrective and preventive actions aimed at reducing recurrence.</p>
+        <p><strong>Skills demonstrated.</strong> Breach analysis · Risk reporting · Policy and risk mapping · Cross-functional remediation · Risk committee presentations</p>
+      </div>
+    </details>
   </li>
   <li>
     <p>Recognized with multiple top three finishes in enterprise wide
