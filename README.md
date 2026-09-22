@@ -55,6 +55,19 @@ I tend to be methodical in how I approach problems and collaborative in how I so
         <li>
           Improved operational efficiency by automating governance processes,
           saving 1,000+ hours of manual work.
+          <details>
+            <summary><strong>Project spotlight: Global Policy Index</strong></summary>
+            <div align="left">
+              <h3>Objective</h3>
+              <p>Make company policies, procedures, and standards easier to locate and reference for a global department of approximately 1,000 analysts.</p>
+              <h3>What I built</h3>
+              <p>I designed and implemented a centralized, calendar-based Policy Index that organized policy documentation into a shared access point. Automatic refresh functionality reduced manual updates and helped keep the index current.</p>
+              <h3>Impact</h3>
+              <p>The index made policy documentation easier to find and reference. Based on my own experience, observations, and analyst feedback, I estimated a potential saving of approximately one hour of policy research per analyst per day. This was an informal estimate; department-wide time savings were not formally measured.</p>
+              <h3>Skills demonstrated</h3>
+              <p>Information organization · Workflow automation · Policy management · Process improvement</p>
+            </div>
+          </details>
         </li>
         <li>
           Identified and eliminated 20,000+ defective enterprise transactions,
