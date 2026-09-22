@@ -32,6 +32,8 @@
   🗣️ English · Spanish · Portuguese
 </samp>
 
+</div>
+
 # Verified Recommendations
 
 [View here](https://www.linkedin.com/in/jacob-eli-jimenez/details/recommendations/?detailScreenTabIndex=0)
@@ -44,6 +46,8 @@ What I enjoy most is understanding how people, processes, data, and controls fit
 
 I tend to be methodical in how I approach problems and collaborative in how I solve them. My goal is usually the same, build clearer, more scalable ways of working that reduce risk, strengthen controls, and help the business operate more effectively.
 
+
+<div align="center">
 
 <table>
   <tr>
