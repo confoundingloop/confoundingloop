@@ -99,7 +99,7 @@ I tend to be methodical in how I approach problems and collaborative in how I so
 
 ## 💼 Enterprise Technology Stack
 
-What I've learned throughout my career.
+What I've picked up throughout my career.
 
 <table>
 <tr>
