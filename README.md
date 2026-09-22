@@ -222,6 +222,8 @@ What I've learned throughout my career.
   >
 </picture>
 
+</div>
+
 # Insights and Presentations
 - [AI Trustworthiness Taxonomy](https://buttercup-xylocarp-246.notion.site/AI-Trustworthiness-Taxonomy-GRC-Field-Guide-3d4ebe79f32a812caf89d3af29d0c3c8)
 - [Sensor Metadata Examples](https://epcis-sensor-metadata-ce-axek3x7.gamma.site/)
