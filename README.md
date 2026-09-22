@@ -6,7 +6,7 @@
 <p align="center">
   👋 You are my
   <img
-    src="https://count.getloli.com/@confoundingloop-miku?theme=miku"
+    src="https://count.getloli.com/@confoundingloop-miku?theme=sketch-1"
     alt="visitor count"
   />
   <b>visitor</b>!
