@@ -51,15 +51,16 @@ I tend to be methodical in how I approach problems and collaborative in how I so
 <h2>Highlights</h2>
 <ol>
   <li>
-    <p>Improved operational efficiency by automating governance processes,
-    saving 1,000+ hours of manual work.</p>
+    <p>Analyzed 10,000+ breach records within financial services to identify risk patterns,
+    metadata concentrations, and support targeted remediation efforts.</p>
     <details>
-      <summary><strong>Project spotlight: Global Policy Index</strong></summary>
+      <summary><strong>Project spotlight: Global Breach Analysis and Remediation</strong></summary>
       <div align="left">
-        <p><strong>Objective.</strong> Make company policies, procedures, and standards easier to locate and reference for a global department of approximately 1,000 analysts.</p>
-        <p><strong>What I built.</strong> I designed and implemented a centralized, calendar-based Policy Index that organized policy documentation into a shared access point. Automatic refresh functionality reduced manual updates and helped keep the index current.</p>
-        <p><strong>Impact.</strong> The index made policy documentation easier to find and reference. Based on my own experience, observations, and analyst feedback, I estimated a potential saving of approximately one hour of policy research per analyst per day.</p>
-        <p><strong>Skills demonstrated.</strong> Information organization · Workflow automation · Policy management · Process improvement</p>
+        <p><strong>Objective.</strong> Analyze 10,000+ breach records within financial services to identify concentrations of issues and support remediation across NAM, LATAM, APAC, and EMEA.</p>
+        <p><strong>What I did.</strong> I reviewed breach reports, extracted supporting data from systems, and analyzed concentrations across mapped policies, risks, legal entities, and regions. This connected individual breaches to broader patterns and helped identify areas requiring leadership attention.</p>
+        <p><strong>Leadership reporting and collaboration.</strong> I presented the analysis and key findings to the risk committee and partnered with leaders responsible for anti-money laundering (AML), anti-bribery, and insider trading compliance to determine appropriate remediation actions.</p>
+        <p><strong>Remediation focus.</strong> I worked with the responsible leaders to address open issues and identify corrective and preventive actions aimed at reducing recurrence.</p>
+        <p><strong>Skills demonstrated.</strong> Breach analysis · Risk reporting · Policy and risk mapping · Cross-functional remediation · Risk committee presentations</p>
       </div>
     </details>
   </li>
@@ -77,16 +78,15 @@ I tend to be methodical in how I approach problems and collaborative in how I so
     </details>
   </li>
   <li>
-    <p>Analyzed 10,000+ breach records within financial services to identify risk patterns,
-    metadata concentrations, and support targeted remediation efforts.</p>
+    <p>Improved operational efficiency by automating governance processes,
+    saving 1,000+ hours of manual work.</p>
     <details>
-      <summary><strong>Project spotlight: Global Breach Analysis and Remediation</strong></summary>
+      <summary><strong>Project spotlight: Global Policy Index</strong></summary>
       <div align="left">
-        <p><strong>Objective.</strong> Analyze 10,000+ breach records within financial services to identify concentrations of issues and support remediation across NAM, LATAM, APAC, and EMEA.</p>
-        <p><strong>What I did.</strong> I reviewed breach reports, extracted supporting data from systems, and analyzed concentrations across mapped policies, risks, legal entities, and regions. This connected individual breaches to broader patterns and helped identify areas requiring leadership attention.</p>
-        <p><strong>Leadership reporting and collaboration.</strong> I presented the analysis and key findings to the risk committee and partnered with leaders responsible for anti-money laundering (AML), anti-bribery, and insider trading compliance to determine appropriate remediation actions.</p>
-        <p><strong>Remediation focus.</strong> I worked with the responsible leaders to address open issues and identify corrective and preventive actions aimed at reducing recurrence.</p>
-        <p><strong>Skills demonstrated.</strong> Breach analysis · Risk reporting · Policy and risk mapping · Cross-functional remediation · Risk committee presentations</p>
+        <p><strong>Objective.</strong> Make company policies, procedures, and standards easier to locate and reference for a global department of approximately 1,000 analysts.</p>
+        <p><strong>What I built.</strong> I designed and implemented a centralized, calendar-based Policy Index that organized policy documentation into a shared access point. Automatic refresh functionality reduced manual updates and helped keep the index current.</p>
+        <p><strong>Impact.</strong> The index made policy documentation easier to find and reference. Based on my own experience, observations, and analyst feedback, I estimated a potential saving of approximately one hour of policy research per analyst per day.</p>
+        <p><strong>Skills demonstrated.</strong> Information organization · Workflow automation · Policy management · Process improvement</p>
       </div>
     </details>
   </li>
