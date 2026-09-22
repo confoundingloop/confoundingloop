@@ -1,3 +1,19 @@
+<br/><br/>
+
+</div>
+
+
+<p align="center">
+  👋 You are my
+  <img
+    src="https://count.getloli.com/@confoundingloop-miku?theme=miku"
+    alt="visitor count"
+  />
+  <b>visitor</b>!
+</p>
+
+
+
 <div align="center">
 
 <img
@@ -15,20 +31,6 @@
   &nbsp;·&nbsp;
   🗣️ English · Spanish · Portuguese
 </samp>
-
-<br/><br/>
-
-</div>
-
-
-<p align="center">
-  👋 You are my
-  <img
-    src="https://count.getloli.com/@confoundingloop-miku?theme=miku"
-    alt="visitor count"
-  />
-  <b>visitor</b>!
-</p>
 
 # Verified Recommendations
 
