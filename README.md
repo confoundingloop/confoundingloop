@@ -64,8 +64,17 @@ I tend to be methodical in how I approach problems and collaborative in how I so
     </details>
   </li>
   <li>
-    <p>Identified and eliminated 20,000+ defective enterprise transactions,
+    <p>Identified and resolved 20,000+ defective account records,
     strengthening data quality and audit preparation.</p>
+    <details>
+      <summary><strong>Project spotlight: Enterprise Data Quality Remediation</strong></summary>
+      <div align="left">
+        <p><strong>Objective.</strong> Identify and resolve missing critical data in account records supporting all business units and downstream systems across all 50 states.</p>
+        <p><strong>What I did.</strong> I extracted golden-source data from the source system and ran an automated Python script that identified more than 20,000 account records missing key information. I analyzed the geographic distribution to identify states with the highest concentrations of defective records and prioritize remediation.</p>
+        <p><strong>Collaboration and results.</strong> I partnered with business unit leaders across the affected geographies to correct active-account records or remove records associated with inactive accounts. All 20,000+ identified records were resolved.</p>
+        <p><strong>Skills demonstrated.</strong> Python automation · Data quality analysis · Master data governance · Geographic prioritization · Cross-functional remediation</p>
+      </div>
+    </details>
   </li>
   <li>
     <p>Analyzed 10,000+ financial breach records to identify risk patterns,
