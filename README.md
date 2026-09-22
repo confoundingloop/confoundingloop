@@ -21,9 +21,7 @@
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=200&section=header&text=Jacob%20Eli%20Jimenez&fontColor=ffffff&fontSize=46&fontAlignY=34&desc=Master%20Data%20Governance%20%C2%B7%20Regulatory%20Compliance%20%C2%B7%20Lean%20Six%20Sigma%20&descAlignY=54&descSize=14"
   alt="Jacob Eli Jimenez — Regulatory Compliance, Master Data Governance, and Lean Six Sigma Expert"
 />
-
 <br/>
-
 <samp>
   📍 DFW, Texas
   &nbsp;·&nbsp;
