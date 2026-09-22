@@ -47,58 +47,43 @@ I tend to be methodical in how I approach problems and collaborative in how I so
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="500%" valign="top">
-      <h2>Highlights</h2>
-      <ol>
-        <li>
-          Improved operational efficiency by automating governance processes,
-          saving 1,000+ hours of manual work.
-          <details>
-            <summary><strong>Project spotlight: Global Policy Index</strong></summary>
-            <div align="left">
-              <h3>Objective</h3>
-              <p>Make company policies, procedures, and standards easier to locate and reference for a global department of approximately 1,000 analysts.</p>
-              <h3>What I built</h3>
-              <p>I designed and implemented a centralized, calendar-based Policy Index that organized policy documentation into a shared access point. Automatic refresh functionality reduced manual updates and helped keep the index current.</p>
-              <h3>Impact</h3>
-              <p>The index made policy documentation easier to find and reference. Based on my own experience, observations, and analyst feedback, I estimated a potential saving of approximately one hour of policy research per analyst per day.</p>
-              <h3>Skills demonstrated</h3>
-              <p>Information organization · Workflow automation · Policy management · Process improvement</p>
-            </div>
-          </details>
-        </li>
-        <li>
-          Identified and eliminated 20,000+ defective enterprise transactions,
-          strengthening data quality and audit preparation.
-        </li>
-        <li>
-          Analyzed 10,000+ financial breach records to identify risk patterns,
-          metadata concentrations, and support targeted remediation efforts.
-        </li>
-        <li>
-          Recognized with multiple top three finishes in enterprise wide
-          hackathons for transforming complex business challenges into scalable,
-          technology driven solutions.
-        </li>
-        <li>
-          Earned multiple Lean Six Sigma certifications over about five years
-          at Genpact, a renowned Global Consulting firm, by successfully leading
-          process improvement initiatives that delivered measurable business
-          results.
-        </li>
-      </ol>
-    </td>
-    <td width="500%" valign="middle" align="center">
-      <img
-        src="https://raw.githubusercontent.com/AdityaKumar28/AdityaKumar28/master/animation.gif"
-        alt="Developer working at an awesome desk"
-        width="351"
-      >
-    </td>
-  </tr>
-</table>
+<div align="left">
+<h2>Highlights</h2>
+<ol>
+  <li>
+    <p>Improved operational efficiency by automating governance processes,
+    saving 1,000+ hours of manual work.</p>
+    <details>
+      <summary><strong>Project spotlight: Global Policy Index</strong></summary>
+      <div align="left">
+        <p><strong>Objective.</strong> Make company policies, procedures, and standards easier to locate and reference for a global department of approximately 1,000 analysts.</p>
+        <p><strong>What I built.</strong> I designed and implemented a centralized, calendar-based Policy Index that organized policy documentation into a shared access point. Automatic refresh functionality reduced manual updates and helped keep the index current.</p>
+        <p><strong>Impact.</strong> The index made policy documentation easier to find and reference. Based on my own experience, observations, and analyst feedback, I estimated a potential saving of approximately one hour of policy research per analyst per day.</p>
+        <p><strong>Skills demonstrated.</strong> Information organization · Workflow automation · Policy management · Process improvement</p>
+      </div>
+    </details>
+  </li>
+  <li>
+    <p>Identified and eliminated 20,000+ defective enterprise transactions,
+    strengthening data quality and audit preparation.</p>
+  </li>
+  <li>
+    <p>Analyzed 10,000+ financial breach records to identify risk patterns,
+    metadata concentrations, and support targeted remediation efforts.</p>
+  </li>
+  <li>
+    <p>Recognized with multiple top three finishes in enterprise wide
+    hackathons for transforming complex business challenges into scalable,
+    technology driven solutions.</p>
+  </li>
+  <li>
+    <p>Earned multiple Lean Six Sigma certifications over about five years
+    at Genpact, a renowned Global Consulting firm, by successfully leading
+    process improvement initiatives that delivered measurable business
+    results.</p>
+  </li>
+</ol>
+</div>
 
 
 
