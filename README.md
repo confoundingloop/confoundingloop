@@ -27,7 +27,7 @@
   &nbsp;·&nbsp;
   🌎 Open to Remote / Relocation
   &nbsp;·&nbsp;
-  🗣️ English · Spanish · Portuguese
+  🗣️ English · Spanish · Portuguese Elementary
 </samp>
 
 </div>
